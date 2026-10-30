@@ -12,7 +12,7 @@ Master Degree Thesis  - **Proactive Anomaly Detection in Storage System Performa
 
 - Publication Link: https://ieeexplore.ieee.org/document/11295068
 
-I'm always open to meaningful conversations, professional connections, collaborations, and new opportunities. Looking forward to connecting with you! 😊
+I'm always open to meaningful conversations, professional connections, collaborations, and new opportunities.😊
 <!--
 **varuni-rvce/varuni-rvce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
